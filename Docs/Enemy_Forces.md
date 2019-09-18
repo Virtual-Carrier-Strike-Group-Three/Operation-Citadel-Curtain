@@ -39,3 +39,7 @@
 2. 559th Bomber Aviation Regiment
   * Estimated Strength
   * 22+ SU-24
+
+![alt text](https://github.com/Virtual-Carrier-Strike-Group-Three/Operation-Citadel-Curtain/blob/master/Images/Georgia%20Enemy%20AF1.PNG "Enemy Air Forces")
+
+![alt text](https://github.com/Virtual-Carrier-Strike-Group-Three/Operation-Citadel-Curtain/blob/master/Images/Georgia%20Enemy%20AF2.PNG "Enemy Air Forces")
