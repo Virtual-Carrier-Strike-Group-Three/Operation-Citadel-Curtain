@@ -6,7 +6,7 @@ Preplanned and briefed operations will take place biweekly on the 2nd and 4th Su
 Dynamic missions will take place on Tuesday and Thursdays of each week at 2030 EST until the conclusion of combat operations in the region. Mission signups for these missions will occur on the vCSG3 forums calander with invites being posted in the Discord #mission discussion channel.
 
 ## SITUATION
-[Situation](Docs/Mission) | [Enemy Forces](Docs/Enemy_Forces) | [Mission](Docs/Mission) | [Execution](Docs/Execution) | [Friendly Forces](Docs/Friendly_Forces) 
+[Situation](Docs/Situation) | [Enemy Forces](Docs/Enemy_Forces) | [Mission](Docs/Mission) | [Execution](Docs/Execution) | [Friendly Forces](Docs/Friendly_Forces) 
 
 ## ADMIN
 [Admin](Docs/Admin) | [Radio Presets](Docs/Presets)
