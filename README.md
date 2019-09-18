@@ -8,3 +8,11 @@ Dynamic missions will take place on Tuesday and Thursdays of each week at 2030 E
 ## SITUATION
 [Situation](Docs/Mission) | [Enemy Forces](Docs/Enemy_Forces) | [Mission](Docs/Mission) | [Execution](Docs/Execution) | [Friendly Forces](Docs/Friendly_Forces) 
 
+## ADMIN
+[Admin](Docs/Admin) | [Radio Presets](Docs/Presets)
+
+## SPECIAL INSTRUCTIONS
+[SPINS](Docs/SPINS) | [ROE](Docs/ROE)
+
+
+
