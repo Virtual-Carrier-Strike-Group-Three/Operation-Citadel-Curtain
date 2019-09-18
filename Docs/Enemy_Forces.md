@@ -15,6 +15,7 @@
   * Estimated Strength
   * 20+ BTR-80 IFV
   * 150+ Infantry
+![alt text](https://github.com/Virtual-Carrier-Strike-Group-Three/Operation-Citadel-Curtain/blob/master/Images/Georgia%20Enemy%20SOM.PNG "Enemy Ground Forces")
 
 # Enemy Air Forces
 
