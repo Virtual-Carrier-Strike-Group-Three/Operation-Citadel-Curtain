@@ -24,3 +24,10 @@
 2. **Key Task.**  Halt Russian forces along Georgian borders from claiming any further Georgian territory.  Protect key bed down locations in Georgia.  Contain all anti-coalition forces within Georgia.  Defeat Russian military and paramilitary forces.
 3. **Endstate.**  International borders restored, organized Russian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN designated force.
 
+5. Adjacent
+    - a. French Air Force's Fighter Squadron 2/5 "Fighter Squadron 2/5 Île-de-France" is prepositioned in Sukhumi for what was expected to be routine peacekeeping operations. 
+    - b. Canada's 21st Armoured Regiment was prepositioned along the Northern Georgia border at the time of Russian military advances and was successful in stopping further advance into Georgian territory.
+    - c. Georgia's 4th Mechanized Infantry Battalion, stationed at Gudauta Army Base was able to halt Russian advances IVO Gali.
+    
+6. Supporting
+   - a. 
