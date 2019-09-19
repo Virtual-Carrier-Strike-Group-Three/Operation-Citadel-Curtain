@@ -16,7 +16,7 @@
 
 #### (b) Commander’s Intent
 
-1. **Purpose.**  We must ensure regional stability and enable UAE and Oman to maintain its sovereignty to protect the national interest in the theater.
-2. **Key Task.**  Blockade Iranian forces along the coasts of UAE and Oman from claiming any further Emirati or Omani territory.  Protect key bed down locations in UAE/Oman.  Contain all anti-coalition forces within UAE/Oman.  Defeat Iranian military and paramilitary forces.
-3. **Endstate.**  International borders restored, organized Iranian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN-designated force.
+1. **Purpose.**  We must ensure regional stability and enable Georgia to maintain its sovereignty to protect the national interest in the theater.
+2. **Key Task.**  Halt Russian forces along Georgian borders from claiming any further Georgian territory.  Protect key bed down locations in Georgia.  Contain all anti-coalition forces within Georgia.  Defeat Russian military and paramilitary forces.
+3. **Endstate.**  International borders restored, organized Russian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN designated force.
 
