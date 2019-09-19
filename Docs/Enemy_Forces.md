@@ -39,6 +39,17 @@
 2. 559th Bomber Aviation Regiment
   * Estimated Strength
   * 22+ SU-24
+  
+3. 487th Helicopter Regiment
+  * Estimated Strength
+  * 8+ MI-24
+4. 1st Guards Rocket Brigade
+  * Estimated Strength
+  * 8+ SA-10 Grumble
+  * 4+ SA-6 Kub
+  * 4+ SA-3 Goa
+  * 5+ SA-19 Tunguska
+
 
 ![alt text](https://github.com/Virtual-Carrier-Strike-Group-Three/Operation-Citadel-Curtain/blob/master/Images/Georgia%20Enemy%20AF1.PNG "Enemy Air Forces")
 
