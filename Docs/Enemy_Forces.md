@@ -45,11 +45,12 @@
   * 8+ MI-24
 - 1st Guards Rocket Brigade
   * Estimated Strength
-  * 8+ SA-10 Grumble
-  * 4+ SA-6 Kub
-  * 4+ SA-3 Goa
-  * 5+ SA-19 Tunguska
-
+  * 5+ SA-10 Grumble
+  * 15+ SA-11 Buk
+  * 20+ SA-6 Kub
+  * 20+ SA-3 Goa
+  * 50+ SA-19/15 Tunguska
+  * 100+ SA-13 Strela
 
 ![alt text](https://github.com/Virtual-Carrier-Strike-Group-Three/Operation-Citadel-Curtain/blob/master/Images/Georgia%20Enemy%20AF1.PNG "Enemy Air Forces")
 
