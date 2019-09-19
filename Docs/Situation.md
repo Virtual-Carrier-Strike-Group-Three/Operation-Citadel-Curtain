@@ -34,3 +34,10 @@
 6. Supporting
    - a. USAF 970th Airborne Control Squadron is currently operating from Kutaisi Airbase in support of peacekeeping operations.
    - b. USAF 63d Air Refueling Squadron is currently operating from Kutaisi Airbase in support of peacekeeping operations.
+   - c. Georgian 31st Helicopter Regiment based at Senaki-Kolkhi.
+   - d. Georgian 67th  Air Defence Brigade based at Senaki-Kolkhi.
+
+   - e.  **Attachments and Detachments.** [See Task Organization](Task_Organization.md)
+   - f.  **Assumptions.** It is assumed that the limited availability of host nation support will continue to decline throughout the campaign. All operational and logistics planners must seek to minimize additional dependence on Georgian support external to the Port and the Sovereign Government of Georgia during OPERATION CITADEL CURTAIN.
+   
+   - f.  **Legal Considerations.**  [See RULES OF ENGAGEMENT.](ROE.md)
