@@ -42,5 +42,3 @@
    - f.  **Assumptions.** It is assumed that the limited availability of host nation support will continue to decline throughout the campaign. All operational and logistics planners must seek to minimize additional dependence on Georgian support external to the Port and the Sovereign Government of Georgia during OPERATION CITADEL CURTAIN.
 
    - g.  **Legal Considerations.**  [See RULES OF ENGAGEMENT.](ROE.md)
-
-## 2. MISSION. JTF 46.5 conducts pier side MPF offload in the Port of Fujairah in order to prepare for subsequent offensive operations ashore against anti-coalition forces and the hostile nation of Iran.  O/O, JTF 46.5 conducts combined arms offensive operations with Emirati forces and defeats Iranian military, paramilitary, and terrorist forces in order to restore the international border and enable regional stability.
