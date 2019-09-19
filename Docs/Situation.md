@@ -1,4 +1,21 @@
-  * In recent years, Russian rhetoric has continued to argue it’s claim over former Soviet era territories such as the country of Georgia. 
+## SITUATION
+
+### a.	General.  
+
+#### (1) At approximately 2344L, Islamic Revolutionary Guard Corps fast boats conducted coordinated attacks through the use of anti-ship missiles and water-borne improvised explosive devices against the USS Carl Vinson Carrier Strike Group (CSG-1) as it transited the Straits of Hormuz into the Persian Gulf. Initial battle damage assessments indicate that the USS Carl Vinson and USS Wayne E. Meyer sustained catastrophic damage requiring them to be escorted back to Norfolk Naval Base.
+
+#### (2) Following the attacks on CSG-1, Islamic Republic of Iran launched coordinated offensive operations against the Arabian Peninsula seizing significant portions of territory from the sovereign countries of Oman and the United Arab Emirates.
+
+### b.	Battlespace.  European Command (EUCOM), Caucasus Area of Operations.
+
+### c.  Enemy Forces.  [See Enemy Forces current intelligence summaries.](Docs/Enemy_Forces.md)
+
+### d.  Friendly Forces.  [See Friendly Forces current intelligence summaries.](Docs/Friendly_Forces.md)
+
+(1) Higher
+
+
+* In recent years, Russian rhetoric has continued to argue it’s claim over former Soviet era territories such as the country of Georgia. 
 
   * Over the last several weeks, Russian Armed Forces have amassed along the Northern Georgia border in what was perceived to be a repeat of annual military exercises within the region.
 
