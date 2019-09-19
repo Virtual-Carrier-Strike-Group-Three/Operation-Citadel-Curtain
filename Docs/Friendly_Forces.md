@@ -1,5 +1,6 @@
-#### The country of Georgia operates a self defense force of an estimated 37,000. 
-#### A NATO Peacekeeping Force comprised of the French Air Force and Canadian Army is positioned in theater as they were conducting stability operations within the region.
+#### The country of Georgia operates a self defense force of an estimated 37,000. It's self defense force is comprised primarily of conscripted service members who are required to serve for 2 years. Of the total force, only approximately 10,000 are considered professional service members with more advanced military training. Any military campaign will rely heavily upon NATO involvement.
+
+#### A NATO Peacekeeping Force comprised of the French Air Force and Canadian Army is positioned in theater as they were conducting stability operations within the region alongside Georgian forces.
 
 ## Friendly Ground Forces
 
