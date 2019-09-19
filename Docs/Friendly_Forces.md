@@ -2,7 +2,6 @@
 #### A NATO Peacekeeping Force comprised of the French Air Force and Canadian Army is positioned in theater as they were conducting stability operations within the region.
 
 ## Friendly Ground Forces
-## Operational Combat Units Within the Region:
 
 ### Georgian Operational Command West
 #### 4th Mechanized Infantry Brigade
