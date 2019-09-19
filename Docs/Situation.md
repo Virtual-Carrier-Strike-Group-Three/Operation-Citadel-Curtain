@@ -20,11 +20,11 @@
 
    - b. Commander’s Intent
 
-          1. **Purpose.**  We must ensure regional stability and enable Georgia to maintain its sovereignty to protect the national interest in the theater.
+        1. **Purpose.**  We must ensure regional stability and enable Georgia to maintain its sovereignty to protect the national interest in the theater.
 
-          2. **Key Task.**  Halt Russian forces along Georgian borders from claiming any further Georgian territory.  Protect key bed down locations in Georgia.  Contain all anti-coalition forces within Georgia.  Defeat Russian military and paramilitary forces.
+        2. **Key Task.**  Halt Russian forces along Georgian borders from claiming any further Georgian territory.  Protect key bed down locations in Georgia.  Contain all anti-coalition forces within Georgia.  Defeat Russian military and paramilitary forces.
 
-          3. **Endstate.**  International borders restored, organized Russian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN designated force.
+        3. **Endstate.**  International borders restored, organized Russian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN designated force.
 
 5. Adjacent
    - a. French Air Force's Fighter Squadron 2/5 "Fighter Squadron 2/5 Île-de-France" is prepositioned in Sukhumi for what was expected to be routine peacekeeping operations. 
