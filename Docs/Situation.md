@@ -16,7 +16,9 @@
 
 4. Higher
 
-#### (b) Commander’s Intent
+    - a. Mission.  Combined Joint Task Force – Caucasus (CJTF-C) completes final phases of preparation in support of OPERATION CITADEL CURTAIN.  O/O CJTF-C conducts offensive operations and stability and support operations (SASO) throughout Country of Georgia and Turkey IOT ensure Georgian and Turkish sovereignty, regional stability, restore international borders, and restore control over key Georgian cities of Gudata and Sukhumi-Babushara.
+
+    - b. Commander’s Intent
 
 1. **Purpose.**  We must ensure regional stability and enable Georgia to maintain its sovereignty to protect the national interest in the theater.
 2. **Key Task.**  Halt Russian forces along Georgian borders from claiming any further Georgian territory.  Protect key bed down locations in Georgia.  Contain all anti-coalition forces within Georgia.  Defeat Russian military and paramilitary forces.
