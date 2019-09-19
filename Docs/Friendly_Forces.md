@@ -41,3 +41,5 @@
 #### 970th Airborne Air Control Squadron – Based at Senaki-Kolkhi
   * Estimated Strength
   * 3 E-3 Sentry AWACS
+
+![alt text](https://github.com/Virtual-Carrier-Strike-Group-Three/Operation-Citadel-Curtain/blob/master/Images/Georgia%20Friendlies.PNG "Friendly Forces")
