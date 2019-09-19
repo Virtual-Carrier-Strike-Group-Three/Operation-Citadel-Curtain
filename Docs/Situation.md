@@ -8,9 +8,9 @@
 
 ### b.	Battlespace.  European Command (EUCOM), Caucasus Area of Operations.
 
-### c.  Enemy Forces.  [See Enemy Forces current intelligence summaries.](Docs/Enemy_Forces.md)
+### c.  Enemy Forces.  [See Enemy Forces current intelligence summaries.](Enemy_Forces.md)
 
-### d.  Friendly Forces.  [See Friendly Forces current intelligence summaries.](Docs/Friendly_Forces.md)
+### d.  Friendly Forces.  [See Friendly Forces current intelligence summaries.](Friendly_Forces.md)
 
 (1) Higher
 
