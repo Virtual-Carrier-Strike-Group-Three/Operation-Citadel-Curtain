@@ -12,11 +12,11 @@
     - c.  Enemy Forces.  [See Enemy Forces current intelligence summaries.](Enemy_Forces.md)
     - d.  Friendly Forces.  [See Friendly Forces current intelligence summaries.](Friendly_Forces.md)
 
-### (1) Higher
+#### (1) Higher
 
 #### (b) Commander’s Intent
 
-##### 1) Purpose.  We must ensure regional stability and enable UAE and Oman to maintain its sovereignty to protect the national interest in the theater.
-##### 2) Key Task.  Blockade Iranian forces along the coasts of UAE and Oman from claiming any further Emirati or Omani territory.  Protect key bed down locations in UAE/Oman.  Contain all anti-coalition forces within UAE/Oman.  Defeat Iranian military and paramilitary forces.
-##### 3) Endstate.  International borders restored, organized Iranian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN-designated force.
+1. Purpose.  We must ensure regional stability and enable UAE and Oman to maintain its sovereignty to protect the national interest in the theater.
+2. Key Task.  Blockade Iranian forces along the coasts of UAE and Oman from claiming any further Emirati or Omani territory.  Protect key bed down locations in UAE/Oman.  Contain all anti-coalition forces within UAE/Oman.  Defeat Iranian military and paramilitary forces.
+3. Endstate.  International borders restored, organized Iranian and anti-coalition forces defeated, and coalition forces in position to hand off responsibility of SASO to an UN-designated force.
 
