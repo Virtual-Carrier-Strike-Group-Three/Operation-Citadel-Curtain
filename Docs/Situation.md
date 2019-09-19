@@ -1,6 +1,6 @@
-## SITUATION
+## 1. SITUATION
 
-#### a.	General.  
+**a. General.**  
 
 1. In recent years, Russian rhetoric has continued to argue it’s claim over former Soviet era territories such as the country of Georgia. Over the last several weeks, Russian Armed Forces have amassed along the Northern Georgia border in what was perceived to be a repeat of annual military exercises within the region.
 
@@ -9,10 +9,12 @@
 3. NATO Peacekeeping Forces prepositioned in the theater have reportedly responded to and stalled the Russian advance IVO Sukhumi-Babushara.
 
     - b.  **Battlespace.**  European Command (EUCOM), Caucasus Area of Operations.
+    
     - c.  **Enemy Forces.**  [See Enemy Forces current intelligence summaries.](Enemy_Forces.md)
+    
     - d.  **Friendly Forces.**  [See Friendly Forces current intelligence summaries.](Friendly_Forces.md)
 
-#### (1) Higher
+4. Higher
 
 #### (b) Commander’s Intent
 
